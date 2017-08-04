@@ -10,7 +10,7 @@
 
     <body>
         
-        <h1>Login</h1>
+        <h1>Login de rama1</h1>
         
         <form action="ver.htm" method="post">
             <input type="text" name="txtRut" /> Rut<br /><br />
