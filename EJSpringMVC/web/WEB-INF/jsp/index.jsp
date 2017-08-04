@@ -10,10 +10,10 @@
 
     <body>
         
-        <h1>Login de rama1</h1>
+        <h1>Login de rama 1</h1>
         
         <form action="ver.htm" method="post">
-            <input type="text" name="txtRut" /> Rut<br /><br />
+            <input type="text" name="txtRut" /> Ruttttttttttttttttttttt<br /><br />
             <input type="submit" value="Buscar..." />
         </form>
         
