@@ -13,7 +13,7 @@
         <h1>Login</h1>
         
         <form action="ver.htm" method="post">
-            <input type="text" name="txtRut" /> Rut 1<br /><br />
+            <input type="text" name="txtRut" /> Rut 2<br /><br />
             <input type="submit" value="Buscar..." />
         </form>
         
